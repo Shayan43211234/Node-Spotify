@@ -1,20 +1,6 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@Shayan43211234 
-@Igormandello Igormandello/Node.js project readme template
-Last active 2 days ago • Report abuse
-7
-1
- Code Revisions 5 Stars 7 Forks 1
-<script src="https://gist.github.com/Igormandello/57d57ee9a9f32a5414009cbe191db432.js"></script>
-  
- Node.js project readme template
 # Project Title
 
-A nice project with a nice description
+Create a Spotify like website with basic CRUD and song listings using node.
 
 ---
 ## Requirements
@@ -49,19 +35,12 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm install npm -g
 
-###
-### Yarn installation
-  After installing node, this project will need yarn too, so just run the following command.
-
-      $ npm install -g yarn
-
----
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
-    $ yarn install
+    $ git clone https://github.com/Shayan43211234/Node-Spotify
+    $ cd Node-Spotify
+    $ npm install
 
 ## Configure app
 
@@ -73,25 +52,8 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
 
 ## Simple build for production
 
-    $ yarn build
-@Shayan43211234
- 
-Leave a comment
-
-Attach files by dragging & dropping, selecting or pasting them.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+    $ npm build
